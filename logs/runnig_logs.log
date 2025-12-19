@@ -220,3 +220,66 @@ x==========x]
 [2025-12-03 15:00:12,205: INFO: stage_04_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2025-12-19 14:42:28,495: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.62:3000]
+[2025-12-19 14:42:28,496: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 14:42:35,848: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:42:35] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:42:36,230: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:42:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-12-19 14:42:58,046: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:42:58] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:37,441: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.62:3000]
+[2025-12-19 14:43:37,442: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 14:43:41,179: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:41] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:44,431: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:44] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:46,333: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:46] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:47,143: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:47] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:47,534: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:47] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:47,917: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:47] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:48,253: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:48] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:48,745: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:48] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:48,969: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:48] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:49,150: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:49] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:49,325: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:49] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:50,017: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:50] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:50,276: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:50] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:50,425: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:50] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:50,568: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:50] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:50,938: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:50] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:43:51,122: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:43:51] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:44:08,905: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:44:08] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:44:09,122: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:44:09] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:44:09,294: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:44:09] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:45:10,376: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.62:3000]
+[2025-12-19 14:45:10,376: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 14:45:14,552: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:45:14] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:45:16,781: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:45:16] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:46:09,724: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:46:09] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:46:48,721: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:46:48] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:46:55,792: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:46:55] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:50:23,874: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.62:3000]
+[2025-12-19 14:50:23,874: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 14:50:28,638: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:50:28] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:56:11,303: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.62:5000]
+[2025-12-19 14:56:11,303: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 14:56:14,702: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:56:14] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:56:26,185: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:56:26] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:58:37,238: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.62:5000]
+[2025-12-19 14:58:37,238: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-12-19 14:58:42,106: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:58:42] "GET / HTTP/1.1" 200 -]
+[2025-12-19 14:58:42,518: INFO: _internal: 127.0.0.1 - - [19/Dec/2025 14:58:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
